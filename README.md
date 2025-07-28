@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
 ## Getting Started
@@ -38,3 +39,6 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/pages/building-your-application/deploying) for more details.
+=======
+# Next.js Project Setup and Basics  This repository contains the foundational setup for a modern web application using **Next.js**, **TypeScript**, and **Tailwind CSS**.  ## Purpose  The goal of this project is to provide a hands-on introduction to building scalable and maintainable web applications with Next.js. It covers essential concepts such as:  - Project setup with TypeScript and Tailwind CSS - Basic routing with the Pages Router - Creating reusable components using TypeScript interfaces - Implementing interactive UI elements like modals and buttons - Fetching and displaying data from external APIs - Applying clean project structure and best practices  This setup serves as the base for all subsequent tasks in the ALX Frontend Intermediate curriculum.
+>>>>>>> b572aeef13640bf4d39e0ec8862740e2bf957c12
